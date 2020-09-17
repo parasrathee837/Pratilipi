@@ -1,3 +1,3 @@
 # Pratilipi
-story reader online
-hello everyone
+Online Story reader made using HTML,CSS,PHP
+
